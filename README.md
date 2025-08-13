@@ -15,7 +15,7 @@
 Conteudo
 
 - ## Fase-1
-  ### Estrutura de diretórios do Linux (FHS)
+  #### Estrutura de diretórios do Linux (FHS)
   - [1. O que é o FHS](content/fase-1/fhs/README.md#o-que-é-o-fhs)
   - [2. Principais diretórios e suas funções](content/fase-1/fhs/README.md#principais-diretórios-e-suas-funções)
   - [3. Por que o DevOps precisa conhecer o FHS](content/fase-1/fhs/README.md#por-que-o-devops-precisa-conhecer-o-fhs)
@@ -23,7 +23,7 @@ Conteudo
   - [5. Boas práticas para DevOps](content/fase-1/fhs/README.md#boas-práticas-para-devops)
   - [6. Dicas rápidas de administração](content/fase-1/fhs/README.md#dicas-rápidas-de-administração)
   - [Resumo rápido para consultas](content/fase-1/fhs/README.md#resumo-rápido-para-consultas)
-  ### Permissões de arquivos/diretorios
+  #### Permissões de arquivos/diretorios
   - [1. Conceito geral](content/fase-1/permissoes/README.md#conceito-geral)
   - [2. Interpretação de Permissões](content/fase-1/permissoes/README.md#interpretação-de-permissões)
   - [3. Alterando Permissões (chmod)](content/fase-1/permissoes/README.md#alterando-permissões-chmod)
