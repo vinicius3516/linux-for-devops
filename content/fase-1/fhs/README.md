@@ -1,7 +1,7 @@
 # Estrutura de diretórios do Linux (FHS)
 
 <details>
-<summary class="summary">Fase-1</summary>
+<summary class="summary">Sumário</summary>
 
 - [1. O que é o FHS](#o-que-é-o-fhs)
 - [2. Principais diretórios e suas funções](#principais-diretórios-e-suas-funções)

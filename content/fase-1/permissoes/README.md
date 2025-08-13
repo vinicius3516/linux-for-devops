@@ -1,7 +1,7 @@
 # Permissões de Arquivos e Diretórios no Linux
 
 <details>
-<summary class="summary">Fase-1</summary>
+<summary class="summary">Sumário</summary>
 
 - [1. Conceito geral](#conceito-geral)
 - [2. Interpretação de Permissões](#interpretacao-de-permissoes)
@@ -47,7 +47,7 @@ Exemplo de saída `ls -l`:
 
 Destrinchando:
 
-- → Tipo de item ( arquivo, `d` diretório, `l` link, etc.)
+- `-` Tipo de item (`-` arquivo, `d` diretório, `l` link, etc.)
 - `rw-` → Permissões do **owner**
 - `rw-` → Permissões do **group**
 - `r--` → Permissões dos **others**
@@ -72,17 +72,16 @@ Modo numérico:
 chmod 777 arquivo.txt
 chmod 764 -R pasta/
 ```
+**Recursivo:** `-R` aplica a mudança a todo o conteúdo do diretório.
 
 Modo simbólico:
 
 ```bash
-chmod u=rwx,g=rw,o=r arquivo.txt   # Define permissões exatas
+chmod u=rwx,g=rw,o=r arquivo.txt   # Define permissões exatas, onde u = owner, g = group, o = others
 chmod u+w arquivo.txt              # Adiciona escrita ao owner
 chmod g-r arquivo.txt              # Remove leitura do grupo
 chmod a+x script.sh                # Adiciona execução para todos
 ```
-
-**Recursivo:** `-R` aplica a mudança a todo o conteúdo do diretório.
 
 &nbsp;
 
