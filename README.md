@@ -34,6 +34,16 @@ Conteudo
   - [8. Dicas rápidas](content/fase-1/permissoes/README.md#dicas-rápidas)
   - [9. Alterando as configurações padrão do Umask no Ubuntu](content/fase-1/permissoes/README.md#alterando-as-configurações-padrão-do-umask)
   - [10. Resumo rápido](content/fase-1/permissoes/README.md#resumo-rápido)
+  ### Gerenciamento de Processos no Linux
+  - [O que é um Processo](content/fase-1/processos/README.md#o-que-é-um-processo)
+  - [Sinais de Processos (Signals)](content/fase-1/processos/README.md#sinais-de-processos-signals)
+  - [Comandos para Listar Processos](content/fase-1/processos/README.md#comandos-para-listar-processos)
+  - [Filtrando Processos](content/fase-1/processos/README.md#filtrando-processos)
+  - [Monitoramento em Tempo Real](content/fase-1/processos/README.md#monitoramento-em-tempo-real)
+  - [Finalizando Processos](content/fase-1/processos/README.md#finalizando-processos)
+  - [Boas Práticas DevOps](content/fase-1/processos/README.md#boas-práticas-devops)
+  - [Dicas rápidas](content/fase-1/processos/README.md#dicas-rápidas)
+  - [Resumo rápido](content/fase-1/processos/README.md#resumo-rápido)
 - ## Fase-2 - Em andamento
 - ## Fase-3 - Em andamento
 - ## Fase-4 - Em andamento
