@@ -53,22 +53,22 @@ Conteudo
   - [Resumo rápido para consultas](content/fase-1/systemd_systemctl/README.md#resumo-rápido-para-consultas)
   ### Logs e troubleshooting com journalctl e /var/log
    - #### Gerenciamento de Logs no Linux – /var/log
-  - [O que é o `/var/log`](content/fase-1/logs/README.md#o-que-é-o-varlog)
-  - [Funções do `/var/log`](content/fase-1/logs/README.md#funções-do-varlog)
-  - [Principais arquivos em `/var/log`](content/fase-1/logs/README.md#principais-arquivos-em-varlog)
-  - [Como usar logs no dia a dia DevOps](content/fase-1/logs/README.md#como-usar-logs-no-dia-a-dia-devops)
-  - [Ferramentas úteis para análise de logs](content/fase-1/logs/README.md#ferramentas-úteis-para-análise-de-logs)
-  - [Boas práticas DevOps com logs](content/fase-1/logs/README.md#boas-práticas-devops-com-logs)
-  - [Dicas rápidas](content/fase-1/logs/README.md#dicas-rápidas)
-  - [Resumo rápido para consultas](content/fase-1/logs/README.md#resumo-rápido-para-consultas)
+      - [O que é o `/var/log`](content/fase-1/logs/README.md#o-que-é-o-varlog)
+      - [Funções do `/var/log`](content/fase-1/logs/README.md#funções-do-varlog)
+      - [Principais arquivos em `/var/log`](content/fase-1/logs/README.md#principais-arquivos-em-varlog)
+      - [Como usar logs no dia a dia DevOps](content/fase-1/logs/README.md#como-usar-logs-no-dia-a-dia-devops)
+      - [Ferramentas úteis para análise de logs](content/fase-1/logs/README.md#ferramentas-úteis-para-análise-de-logs)
+      - [Boas práticas DevOps com logs](content/fase-1/logs/README.md#boas-práticas-devops-com-logs)
+      - [Dicas rápidas](content/fase-1/logs/README.md#dicas-rápidas)
+      - [Resumo rápido para consultas](content/fase-1/logs/README.md#resumo-rápido-para-consultas)
 
    - #### Gerenciamento de Logs com journalctl
-  - [O que é o journalctl](content/fase-1/logs/README.md#o-que-é-o-journalctl)
-  - [Funções principais](content/fase-1/logs/README.md#funções-principais)
-  - [Principais parâmetros do journalctl](content/fase-1/logs/README.md#principais-parâmetros-do-journalctl)
-  - [Exemplos práticos no dia a dia DevOps](content/fase-1/logs/README.md#exemplos-práticos-no-dia-a-dia-devops)
-  - [Boas práticas para DevOps](content/fase-1/logs/README.md#boas-práticas-para-devops)
-  - [Resumo rápido](content/fase-1/logs/README.md#resumo-rápido)
+      - [O que é o journalctl](content/fase-1/logs/README.md#o-que-é-o-journalctl)
+      - [Funções principais](content/fase-1/logs/README.md#funções-principais)
+      - [Principais parâmetros do journalctl](content/fase-1/logs/README.md#principais-parâmetros-do-journalctl)
+      - [Exemplos práticos no dia a dia DevOps](content/fase-1/logs/README.md#exemplos-práticos-no-dia-a-dia-devops)
+      - [Boas práticas para DevOps](content/fase-1/logs/README.md#boas-práticas-para-devops)
+      - [Resumo rápido](content/fase-1/logs/README.md#resumo-rápido)
 - ## Fase-2 - Em andamento
 - ## Fase-3 - Em andamento
 - ## Fase-4 - Em andamento
