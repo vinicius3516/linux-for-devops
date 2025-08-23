@@ -44,6 +44,13 @@ Conteudo
   - [Boas Práticas DevOps](content/fase-1/processos/README.md#boas-práticas-devops)
   - [Dicas rápidas](content/fase-1/processos/README.md#dicas-rápidas)
   - [Resumo rápido](content/fase-1/processos/README.md#resumo-rápido)
+    ### Gerenciamento de Inicialização e Serviços com systemd + systemctl
+  - [O que é o systemd](content/fase-1/systemd_systemctl/README.md#o-que-é-o-systemd)
+  - [O que é o systemctl](content/fase-1/systemd_systemctl/README.md#o-que-é-o-systemctl)
+  - [Comandos mais usados no dia a dia DevOps](content/fase-1/systemd_systemctl/README.md#comandos-mais-usados-no-dia-a-dia-devops)
+  - [Pontos importantes para DevOps](content/fase-1/systemd_systemctl/README.md#pontos-importantes-para-devops)
+  - [Boas Práticas DevOps com systemd](content/fase-1/systemd_systemctl/README.md#boas-práticas-devops-com-systemd)
+  - [Resumo rápido para consultas](content/fase-1/systemd_systemctl/README.md#resumo-rápido-para-consultas)
 - ## Fase-2 - Em andamento
 - ## Fase-3 - Em andamento
 - ## Fase-4 - Em andamento
