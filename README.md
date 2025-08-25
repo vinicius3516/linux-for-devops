@@ -69,6 +69,14 @@ Conteudo
       - [Exemplos práticos no dia a dia DevOps](content/fase-1/logs/README.md#exemplos-práticos-no-dia-a-dia-devops)
       - [Boas práticas para DevOps](content/fase-1/logs/README.md#boas-práticas-para-devops)
       - [Resumo rápido](content/fase-1/logs/README.md#resumo-rápido)
+  ### Gerenciamento de Pacotes no Linux (Essencial para DevOps)
+    - [O que é gerenciamento de pacotes](content/fase-1/pacotes/README.md#o-que-é-gerenciamento-de-pacotes)
+    - [Ferramentas no Ubuntu/Debian](content/fase-1/pacotes/README.md#ferramentas-no-ubuntudebian)
+    - [Comandos práticos do APT](content/fase-1/pacotes/README.md#comandos-práticos-do-apt)
+    - [Exemplos úteis no dia a dia](content/fase-1/pacotes/README.md#exemplos-úteis-no-dia-a-dia)
+    - [Outros gerenciadores de pacotes](content/fase-1/pacotes/README.md#outros-gerenciadores-de-pacotes)
+    - [Boas práticas DevOps](content/fase-1/pacotes/README.md#boas-práticas-devops)
+    - [Resumo rápido](content/fase-1/pacotes/README.md#resumo-rápido)
 - ## Fase-2 - Em andamento
 - ## Fase-3 - Em andamento
 - ## Fase-4 - Em andamento
