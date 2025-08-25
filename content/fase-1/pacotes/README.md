@@ -1,7 +1,7 @@
 # Gerenciamento de Pacotes no Linux (Essencial para DevOps)
 
 <details>
-<summary class="summary">Sumário - Gerenciamento de Pacotes no Linux</summary>
+<summary class="summary">Sumário</summary>
 
 - [O que é gerenciamento de pacotes](#o-que-é-gerenciamento-de-pacotes)
 - [Ferramentas no Ubuntu/Debian](#ferramentas-no-ubuntudebian)
